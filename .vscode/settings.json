@@ -1,3 +1,7 @@
 {
-  "julia.environmentPath": "/Users/uri/Desktop/OPT-Project"
+  "julia.environmentPath": "/Users/uri/Desktop/OPT-Project",
+  "cSpell.words": [
+    "ndenumerate",
+    "wavenumbers"
+]
 }
